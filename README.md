@@ -1,13 +1,13 @@
 # Directory of My Mockup Projects
 This page showcases my UI/UX mockup projects, including professional work at Neurelli and personal design projects. 
----
+
 ## Neurelli
 Neurelli is an AI company in Taiwan specializing in smart factory solutions, AI-driven automation, and data analytics to enhance manufacturing efficiency.
 
 ### Intelligent Manufacturing System
 
 * Shifu 4.0 is an AI-powered system that automates manufacturing adjustments to improve production efficiency. The web-based UI provides managers with real-time analytics, search functions, and optimization tools, ensuring seamless control over the production process.
-* [Shifu 4.0 Figma Web Mockup](https://www.figma.com/proto/JkSwwxsNddWkbk1UHnnndI/Shifu?node-id=0-1&t=eO2s0Q5O8hxTdENA-1)/
+* [Shifu 4.0 Figma Web Mockup](https://www.figma.com/proto/JkSwwxsNddWkbk1UHnnndI/Shifu?node-id=0-1&t=eO2s0Q5O8hxTdENA-1)
 ![image](https://github.com/user-attachments/assets/04535e43-d5d5-4af3-b82c-b770914595b7)
 
 ### Real Estate Agency Booklet Tool
