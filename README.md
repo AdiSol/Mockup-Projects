@@ -7,8 +7,7 @@ Neurelli is an AI company in Taiwan specializing in smart factory solutions, AI-
 ### Intelligent Manufacturing System
 
 * Shifu 4.0 is an AI-powered system that automates manufacturing adjustments to improve production efficiency. The web-based UI provides managers with real-time analytics, search functions, and optimization tools, ensuring seamless control over the production process.
-* [Shifu 4.0 Figma Web Mockup](https://www.figma.com/proto/JkSwwxsNddWkbk1UHnnndI/Shifu?node-id=0-1&t=eO2s0Q5O8hxTdENA-1)
-![image](https://github.com/user-attachments/assets/04535e43-d5d5-4af3-b82c-b770914595b7)
+* [Shifu 4.0 Web Mockup](https://www.figma.com/proto/JkSwwxsNddWkbk1UHnnndI/Shifu?node-id=0-1&t=eO2s0Q5O8hxTdENA-1)
 
 ### Real Estate Agency Booklet Tool
 * An AI-driven tool that generates personalized real estate booklets, streamlining property listings for agents. It won the top prize of NTD 700,000 at [AI+ Day 2024](https://neurelli.com/news_detail/35.htm).
@@ -16,7 +15,7 @@ Neurelli is an AI company in Taiwan specializing in smart factory solutions, AI-
 
 ### License Plate Recognition
 * A web mockup for an AI-driven license plate recognition system.
-* [LPR Figma Web Mockup](https://www.figma.com/proto/5RbubArgCPx6yBbcUjfq72/LPR-Mockup?t=63qYvXRGyWTrVPIy-1)
+* [LPR Web Mockup](https://www.figma.com/proto/5RbubArgCPx6yBbcUjfq72/LPR-Mockup?t=63qYvXRGyWTrVPIy-1)
 
 ### Defect Detection Labeling Tool
 * A web-based labeling tool for AI-powered defect detection in manufacturing.
@@ -40,11 +39,11 @@ Neurelli is an AI company in Taiwan specializing in smart factory solutions, AI-
 
 ### AnimoSched (formerly AcherOne)
 * AnimoSched is a semi-automatic scheduling system for students, reducing schedule creation time by 43.21%
-* [AcherOne Figma Web Mockup](https://www.figma.com/proto/QQfk0uZVaKpfL7504kffUf/Round-2?node-id=0-1&t=63qYvXRGyWTrVPIy-1)
+* [AcherOne Web Mockup](https://www.figma.com/proto/QQfk0uZVaKpfL7504kffUf/Round-2?node-id=0-1&t=63qYvXRGyWTrVPIy-1)
 
 ### TranspoDesire 2.0
 * A transport desirability index visualization web application aiding in transport system assessment and planning in the Philippines.
 * [Plexus Admin Portal Web Mockup](https://www.figma.com/proto/FyD74OMdJ2tXx7p8RTB2TC/%5BTranspoDesire-2.0%5D-Admin-Portal?node-id=34-0&t=i4ThGGwGmb1jKzbm-1)
 ### Owhen
 * A budgeting and expense tracking web app mockup.
-* [Owhen Figma Web Mockup](https://www.figma.com/proto/ZFaoby9h3bTkz8LPCukFcV/Owhen?node-id=1-2&t=KKMCUOWzghGBASx1-1)
+* [Owhen Web Mockup](https://www.figma.com/proto/ZFaoby9h3bTkz8LPCukFcV/Owhen?node-id=1-2&t=KKMCUOWzghGBASx1-1)
