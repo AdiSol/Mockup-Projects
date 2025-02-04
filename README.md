@@ -43,7 +43,8 @@ Neurelli is an AI company in Taiwan specializing in smart factory solutions, AI-
 ### CoDo - Dorm Buddy
 * CoDo is a condominium/dormitory companion app mainly for students to automate certain activities with a click of a button.
 * [CoDo Invision Mobile App Mockup](https://adriennesoliven.com/codo-app/#/screens)
-![codo_preview](https://github.com/user-attachments/assets/db6036ce-6d04-4689-8c4d-7f8cf06f3205)
+![image](https://github.com/user-attachments/assets/1d342898-9ae8-4a65-81b2-e1b1464b5657)
+
 
 ### AnimoSched (formerly AcherOne)
 * AnimoSched is a semi-automatic scheduling system for students, reducing schedule creation time by 43.21%
