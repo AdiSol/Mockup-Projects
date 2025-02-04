@@ -24,12 +24,12 @@ Neurelli is an AI company in Taiwan specializing in smart factory solutions, AI-
 * A web-based labeling tool for AI-powered defect detection in manufacturing.
 * [Web Labeling Tool Mockup](https://www.figma.com/proto/W552QF8yoZigxBraYZXEvM/Obuster?node-id=4-74&t=w8gAVrvnYtKaOVsQ-1)
 ![image](https://github.com/user-attachments/assets/e3291c93-fabc-4888-b17a-ef2a36529b68)
-![image](https://github.com/user-attachments/assets/32213b37-ce2d-4a17-bc52-a8a6fc627fc0)
+
 
 ### Hand Safety Detection Tool
 * A configuration platform ensuring worker safety during high-risk activities like punch press and metal bending. The web-based UI allows for setting safety parameters and monitoring compliance. It won 1st at [AI+ Day 2022](https://neurelli.com/news_detail/30.htm).
 * [Initial SafeHands Web Mockup](https://www.figma.com/proto/NKKtsGeMhI50UWaJgiSeAK/ADV-Web?node-id=1-2&t=3kmUPT7fywtstsfS-1)
-![image](https://github.com/user-attachments/assets/45f25493-a735-41b8-9325-59985b875f85)
+![image](https://github.com/user-attachments/assets/32213b37-ce2d-4a17-bc52-a8a6fc627fc0)
 
 ---
 
@@ -43,7 +43,7 @@ Neurelli is an AI company in Taiwan specializing in smart factory solutions, AI-
 ### CoDo - Dorm Buddy
 * CoDo is a condominium/dormitory companion app mainly for students to automate certain activities with a click of a button.
 * [CoDo Invision Mobile App Mockup](https://adriennesoliven.com/codo-app/#/screens)
-![image](https://github.com/user-attachments/assets/dd8bfeae-452d-4ac9-9d9e-6b9e4d987841)
+![codo_preview](https://github.com/user-attachments/assets/db6036ce-6d04-4689-8c4d-7f8cf06f3205)
 
 ### AnimoSched (formerly AcherOne)
 * AnimoSched is a semi-automatic scheduling system for students, reducing schedule creation time by 43.21%
