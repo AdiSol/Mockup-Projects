@@ -34,6 +34,12 @@ Neurelli is an AI company in Taiwan specializing in smart factory solutions, AI-
 ---
 
 ## Personal Projects
+### Jeremiah Manzano Portfolio Website
+* A photography and video editing portfolio for my client Jeremiah Manzano.
+* I created the mockup and web design based on my client's specification.
+* [jeremiahmanzano.com](https://www.jeremiahmanzano.com/)
+* [Photography & Video Portfolio Web Mockup](https://www.figma.com/proto/dhTd2oMVyUKLgAWpriSgpX/Capule-Studios?node-id=27-56&t=30W2aNVDAuIiIZ6C-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
+![image](https://github.com/user-attachments/assets/9e897091-c2bb-453c-b1ae-14b91fed22d8)
 
 ### Moko Plants
 * An e-commerce website for selling pots, vases, and floral arrangements.
