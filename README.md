@@ -64,7 +64,7 @@ Neurelli is an AI company in Taiwan specializing in smart factory solutions, AI-
 ![image](https://github.com/user-attachments/assets/f5d31720-e768-4a4a-932c-3f19c9febed7)
 
 ### Owhen
-* Expenses & debt tracking app .
-* [Owhen Web Mockup](https://www.figma.com/proto/ZFaoby9h3bTkz8LPCukFcV/Owhen?node-id=1-2&t=KKMCUOWzghGBASx1-1)
-![image](https://github.com/user-attachments/assets/6068141d-ae9d-48a5-89b6-35377bcbb178)
+* Expenses & debt tracking app.
+<img width="295" height="640" alt="owhen-home" src="https://github.com/user-attachments/assets/5f9b0dfc-a0a2-4488-95ca-de58e80b2112" />
+
 
