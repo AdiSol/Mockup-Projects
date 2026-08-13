@@ -2,6 +2,7 @@
 This page showcases my UI/UX mockup projects, including professional work at Neurelli and personal design projects. 
 
 ## Neurelli
+[neurelli.com](https://www.neurelli.com/en/)
 Neurelli is an AI company in Taiwan specializing in smart factory solutions, AI-driven automation, and data analytics to enhance manufacturing efficiency.
 
 ### Intelligent Manufacturing System
@@ -37,7 +38,7 @@ Neurelli is an AI company in Taiwan specializing in smart factory solutions, AI-
 ### Jeremiah Manzano Portfolio Website
 * A photography and video editing portfolio for my client Jeremiah Manzano.
 * I created the mockup and web design based on my client's specification.
-* [jeremiahmanzano.com](https://www.jeremiahmanzano.com/)
+* [jeremiahmanzano.com](https://jerem-manzano-portfolio.vercel.app/)
 * [Photography & Video Portfolio Web Mockup](https://www.figma.com/proto/dhTd2oMVyUKLgAWpriSgpX/Capule-Studios?node-id=27-56&t=30W2aNVDAuIiIZ6C-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
 ![image](https://github.com/user-attachments/assets/9e897091-c2bb-453c-b1ae-14b91fed22d8)
 
@@ -63,7 +64,7 @@ Neurelli is an AI company in Taiwan specializing in smart factory solutions, AI-
 ![image](https://github.com/user-attachments/assets/f5d31720-e768-4a4a-932c-3f19c9febed7)
 
 ### Owhen
-* A budgeting and expense tracking web app mockup.
+* Expenses & debt tracking app .
 * [Owhen Web Mockup](https://www.figma.com/proto/ZFaoby9h3bTkz8LPCukFcV/Owhen?node-id=1-2&t=KKMCUOWzghGBASx1-1)
 ![image](https://github.com/user-attachments/assets/6068141d-ae9d-48a5-89b6-35377bcbb178)
 
